@@ -1,0 +1,15 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Todd McNeill",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js --input input.txt",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
